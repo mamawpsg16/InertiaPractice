@@ -7,6 +7,7 @@
   };
 </script>
 <template >
+<input type="text">
     <nav class="mx-5">
         <ul class=" flex  space-x-4">
           <li>
